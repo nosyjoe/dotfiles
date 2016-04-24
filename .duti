@@ -1,0 +1,7 @@
+com.macromates.textmate public.shell-script all
+com.macromates.textmate public.unix-executable all
+com.macromates.textmate public.plain-text all
+com.macromates.textmate public.source-code all
+org.videolan.vlc .mkv all
+org.videolan.vlc .avi all
+org.videolan.vlc .mp4 all
