@@ -103,6 +103,9 @@ brew install vbindiff
 brew install webkit2png
 brew install zopfli
 
+# duti
+brew install duti
+
 # Casks
 brew cask install adium
 brew cask install caffeine
@@ -110,6 +113,24 @@ brew cask install handbrake
 brew cask install skype
 brew cask install transmission
 brew cask install vlc
+
+brew cask install textmate
+brew cask install java
+brew cask install appcode
+brew cask install path-finder
+brew cask install chrome
+brew cask install telegram
+brew cask install keepassx
+brew cask install dash
+brew cask install spotify
+brew cask install dropbox
+brew cask install google-drive
+brew cask install slack
+brew cask install paw
+brew cask install owncloud
+brew cask install virtualbox
+brew cask install viscosity
+brew cask install pixelmator
 
 # Remove outdated versions from the cellar.
 brew cleanup
