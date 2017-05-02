@@ -105,6 +105,7 @@ brew install zopfli
 
 # duti
 brew install duti
+brew install gnupg
 
 # Casks
 brew cask install adium
@@ -118,9 +119,10 @@ brew cask install textmate
 brew cask install java
 brew cask install appcode
 brew cask install path-finder
-brew cask install chrome
+brew cask install google-chrome
 brew cask install telegram
 brew cask install keepassx
+# better install dash from appstore (license)
 brew cask install dash
 brew cask install spotify
 brew cask install dropbox
@@ -130,7 +132,7 @@ brew cask install paw
 brew cask install owncloud
 brew cask install virtualbox
 brew cask install viscosity
-brew cask install pixelmator
+brew cask install istat-menus
 
 # Remove outdated versions from the cellar.
 brew cleanup
