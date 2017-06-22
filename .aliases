@@ -161,3 +161,8 @@ alias reload="exec $SHELL -l"
 
 # Print each PATH entry on a separate line
 alias path='echo -e ${PATH//:/\\n}'
+
+# show yesterdays commits (requires zprezto)
+alias gloy='glo --since=`date -v-1d "+%d.%m.%Y"`-00:00 --until `date -v-0d +%d.%m.%Y`-00:00'
+# show todays commits (requires zprezto)
+alias glot='glo --since=`date "+%d.%m.%Y"`-00:00'
