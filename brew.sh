@@ -40,12 +40,15 @@ brew install wget --with-iri
 # brew install ringojs
 # brew install narwhal
 
+# Install GnuPG to enable PGP-signing commits.
+brew install gnupg
+
 # Install more recent versions of some macOS tools.
 brew install vim --with-override-system-vi
-brew install homebrew/dupes/grep
-brew install homebrew/dupes/openssh
-brew install homebrew/dupes/screen
-# brew install homebrew/php/php56 --with-gmp
+brew install grep
+brew install openssh
+brew install screen
+#brew install homebrew/php/php56 --with-gmp
 
 # Install font tools.
 # brew tap bramstein/webfonttools
@@ -88,7 +91,6 @@ brew install xz
 # Install other useful binaries.
 #Search tool like grep, but optimized for programmers
 brew install ack
-brew install dark-mode
 #brew install exiv2
 brew install git
 brew install git-lfs
@@ -102,10 +104,8 @@ brew install rename
 # brew install rhino
 # brew install speedtest_cli
 brew install ssh-copy-id
-brew install testssl
 brew install tree
 brew install vbindiff
-brew install webkit2png
 brew install zopfli
 
 # duti
@@ -128,7 +128,7 @@ brew cask install google-chrome
 brew cask install telegram
 brew cask install keepassx
 # better install dash from appstore (license)
-brew cask install dash
+# brew cask install dash
 brew cask install spotify
 brew cask install dropbox
 brew cask install google-drive
