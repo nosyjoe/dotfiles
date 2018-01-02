@@ -1,9 +1,12 @@
-com.macromates.textmate public.shell-script all
-com.macromates.textmate public.unix-executable all
-com.macromates.textmate public.plain-text all
-com.macromates.textmate public.source-code all
-com.macromates.textmate net.daringfireball.markdown
-com.macromates.textmate public.data
-org.videolan.vlc .mkv all
-org.videolan.vlc .avi all
-org.videolan.vlc .mp4 all
+# bundle id                 UTI/ext/MIME type           role
+
+com.macromates.textmate     public.shell-script         all
+com.macromates.textmate     public.unix-executable      all
+com.macromates.textmate     public.plain-text           all
+com.macromates.textmate     public.source-code          all
+com.macromates.textmate     net.daringfireball.markdown all
+com.macromates.textmate     public.data                 all
+com.macromates.textmate     public.html                 editor
+org.videolan.vlc            .mkv                        all
+org.videolan.vlc            .avi                        all
+org.videolan.vlc            .mp4                        all
