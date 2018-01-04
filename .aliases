@@ -154,3 +154,8 @@ alias path='echo -e ${PATH//:/\\n}'
 alias gloy='glo --since=`date -v-1d "+%d.%m.%Y"`-00:00 --until `date -v-0d +%d.%m.%Y`-00:00'
 # show todays commits (requires zprezto)
 alias glot='glo --since=`date "+%d.%m.%Y"`-00:00'
+
+# philipp's additions
+
+alias ssh-philipp='ssh-add -D && ssh-add ~/.ssh/id_rsa'
+alias ssh-idnow='ssh-add -D && ssh-add ~/.ssh/id_rsa_idnow'
