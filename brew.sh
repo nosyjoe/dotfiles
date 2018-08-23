@@ -113,6 +113,9 @@ brew install zopfli
 brew install duti
 brew install gnupg
 
+# other stuff
+brew install pwgen
+
 # Casks
 brew cask install adium
 brew cask install caffeine
@@ -139,6 +142,12 @@ brew cask install owncloud
 brew cask install virtualbox
 brew cask install viscosity
 brew cask install istat-menus
+brew cask install spectacle
+brew cask install iterm2
+brew cask install firefox
+brew cask install dash
+brew cask install sketch
+
 
 # Remove outdated versions from the cellar.
 brew cleanup
