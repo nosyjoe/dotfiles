@@ -150,6 +150,7 @@ brew cask install firefox
 brew cask install dash
 brew cask install sketch
 brew cask install alfred3
+brew cask install visual-studio-code
 
 
 # Remove outdated versions from the cellar.
