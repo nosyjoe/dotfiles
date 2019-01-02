@@ -138,7 +138,7 @@ brew cask install dropbox
 brew cask install google-drive
 brew cask install slack
 brew cask install paw
-brew cask install owncloud
+brew cask install nextcloud
 brew cask install virtualbox
 brew cask install viscosity
 brew cask install istat-menus
