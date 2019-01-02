@@ -1,1 +1,2 @@
 export PATH="~/.rbenv/shims:$PATH"
+export PATH="$PATH:~/Documents/dev/iOS/ios-icon-generator"
