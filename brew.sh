@@ -115,6 +115,8 @@ brew install gnupg
 
 # other stuff
 brew install pwgen
+brew install android-platform-tools
+brew install android-sdk
 
 # Casks
 brew cask install adium
@@ -147,6 +149,7 @@ brew cask install iterm2
 brew cask install firefox
 brew cask install dash
 brew cask install sketch
+brew cask install alfred3
 
 
 # Remove outdated versions from the cellar.
