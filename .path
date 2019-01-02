@@ -1,1 +1,2 @@
 export PATH="~/.rbenv/shims:$PATH"
+export PATH="/usr/local/opt/flutter/bin:$PATH"
